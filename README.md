@@ -67,4 +67,5 @@ You can get the latest version directly from the **[Releases Page](https://githu
 ## 💜Acknowledgments
 
 * **Vibe Coded**
+
     This project was built with **AI Assistance**. I provided the logic and the frustration; Gemini 3 wrote the powershell code!
