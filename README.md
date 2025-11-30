@@ -1,5 +1,3 @@
-<img width="866" height="122" alt="image" src="https://github.com/user-attachments/assets/1270b175-9aa6-496d-9e06-e70c59906b6e" /><div align="center">
-
 # 🎙️ Sonus
 [![GitHub release](https://img.shields.io/github/v/release/asheohto/Sonus?style=for-the-badge)](https://github.com/asheohto/Sonus/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/asheohto/Sonus/total?style=for-the-badge)](https://github.com/asheohto/Sonus/releases)
