@@ -63,3 +63,8 @@ You can get the latest version directly from the **[Releases Page](https://githu
 * **Simple Setup**
 
     On the first run, it asks if you want to run automatically on startup. Click "Yes" and you're done.
+
+## 💜Acknowledgments
+
+* **Vibe Coded**
+    This project was built with **AI Assistance**. I provided the logic and the frustration; Gemini 3 wrote the powershell code!
