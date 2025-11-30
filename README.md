@@ -43,16 +43,23 @@ You likely installed SteelSeries Sonar for the microphone features (ClearCast AI
 Sonus solves this simple problem. It automatically disables the virtual playback devices you don't use, while keeping the microphone driver fully functional.
 
 ## Features
-
+<div align="center">
+    
+![](sonusdemo.gif)
+</div>
 
 * **Preserves What Matters**
+
     Removes the unnecessary playback clutter but keeps the Sonar Microphone enhancements active. You get the noise cancellation without the mess.
 
 * **Automated Cleanup**
+
     Waits for SteelSeries Sonar to finish loading on startup, then immediately disables the unused virtual channels.
 
 * **Silent Operation**
+
     Runs quietly in the background (System Tray). No windows, no pop-ups, no distractions.
 
 * **Simple Setup**
+
     On the first run, it asks if you want to run automatically on startup. Click "Yes" and you're done.
