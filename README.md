@@ -52,17 +52,17 @@ You can get the latest version directly from the **[Releases Page](https://githu
 
     Removes the unnecessary playback clutter but keeps the Sonar Microphone enhancements active. You get the noise cancellation without the mess.
 
-* **Automated Cleanup**
+* **Smart Detection**
 
-    Waits for SteelSeries Sonar to finish loading on startup, then immediately disables the unused virtual channels.
+    No more fixed timers. Sonus v2.0 actively watches for SteelSeries to load and cleans up the audio devices the exact moment they appear.
 
 * **Silent Operation**
 
     Runs quietly in the background (System Tray). No windows, no pop-ups, no distractions.
 
-* **Simple Setup**
+* **Friendly Setup**
 
-    On the first run, it asks if you want to run automatically on startup. Click "Yes" and you're done.
+    Features Skylar to guide you through the one-click startup process.
 
 ## Notes!
 If the program fails to run during startup, makes sure that Sonus.exe is enabled in Startup Apps.
