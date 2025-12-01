@@ -67,3 +67,7 @@ You can get the latest version directly from the **[Releases Page](https://githu
 ## Notes!
 If the program fails to run during startup, makes sure that Sonus.exe is enabled in Startup Apps.
 <img width="866" height="122" alt="image" src="https://github.com/user-attachments/assets/8e1f647b-883e-40c6-aa53-48b438da99f8" />
+
+## Tags
+> steelseries, sonar, audio-fix, powershell, windows-11, virtual-audio-device.
+> problem : SteelSeries Sonar forces virtual devices named SteelSeries Sonar - Gaming, Chat, Media, and Aux into your sound settings. Even if you disable them, they come back on startup.
